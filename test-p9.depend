@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1601605777 source:c:\users\fernando.carvalho\documents\mestrado\disciplinas\estruturas de dados\codeblocks\p9\test-p9\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<limits.h>
+	<stdio.h>
+	<chrono>
+	<windows.h>
+	<cstdlib>
+	<cstdlib>
+	<conio.h>
+
